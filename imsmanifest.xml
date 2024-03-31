@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5sv85aradzX" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Sina-HR</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Sina-HR_ORG">
+    <organization identifier="Sina-HR_ORG">
+      <title>Sina-HR</title>
+      <item identifier="Sina-HR_SCO" isvisible="true" identifierref="__5sv85aradzX_RES">
+        <title>Sina-HR</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5sv85aradzX_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6DJtOzvdCiT_RG.jpg" />
+      <file href="mobile/614dSoBS9zS.png" />
+      <file href="mobile/6H3FebQzPR6.png" />
+      <file href="mobile/5u8Q3wcSoi5.png" />
+      <file href="mobile/5wAhJHu04Ht.png" />
+      <file href="mobile/6DJtOzvdCiT.jpg" />
+      <file href="story_content/62CR1AteHXx_44100_48_0.mp3" />
+      <file href="story_content/61enX5ms2wz_captions.js" />
+      <file href="mobile/5aLHqxzAdro_M_190_190.png" />
+      <file href="mobile/5saNLWKbKZa.png" />
+      <file href="mobile/6EicPzDoJhx.gif" />
+      <file href="story_content/6Xgm5QhdHG4_44100_48_0.mp3" />
+      <file href="story_content/6dWQtGbuazd_captions.js" />
+      <file href="mobile/6l7uNh11oC8.png" />
+      <file href="mobile/6EicPzDoJhx_X.gif" />
+      <file href="story_content/6TPshx4lSDc_44100_48_0.mp3" />
+      <file href="story_content/5lWqIY12kBp_captions.js" />
+      <file href="story_content/5aK2Gzgpmtk_44100_48_0.mp3" />
+      <file href="story_content/6mDKrYEll1L_captions.js" />
+      <file href="story_content/5hxYiNuLOCo_44100_48_0.mp3" />
+      <file href="story_content/5VKQIXfS0eB_captions.js" />
+      <file href="story_content/6mjgV7r6ZCV_44100_48_0.mp3" />
+      <file href="story_content/6EQiCazg2gU_captions.js" />
+      <file href="story_content/6caRRdjAnT9_44100_48_0.mp3" />
+      <file href="story_content/5clkkt5G8ll_captions.js" />
+      <file href="mobile/5khzeyc1tCc.png" />
+      <file href="mobile/5ygfUS2x3Ak.png" />
+      <file href="mobile/5iFad9FRG3l.png" />
+      <file href="mobile/6AArde3Sa1m.png" />
+      <file href="mobile/6lj7RssgJXg.png" />
+      <file href="story_content/6JRr5cI64Gu_44100_48_0.mp3" />
+      <file href="story_content/68rpSQ66Qct_captions.js" />
+      <file href="story_content/6pwSNjb8348_44100_48_0.mp3" />
+      <file href="story_content/5pyaP5Lro3k_captions.js" />
+      <file href="mobile/5cqnRZNojT2.jpg" />
+      <file href="mobile/5xEX7YCVFXh_P_826_0_709_692.png" />
+      <file href="mobile/5xEX7YCVFXh_P_0_0_706_851.png" />
+      <file href="mobile/5xEX7YCVFXh_P_694_0_841_851.png" />
+      <file href="mobile/6buOFz6HRGG_P_30_0_481_389.jpg" />
+      <file href="mobile/6buOFz6HRGG_P_713_129_310_259.jpg" />
+      <file href="story_content/5hvNYJV0Yx9_44100_48_0.mp3" />
+      <file href="story_content/5WbrRg8F6cu_captions.js" />
+      <file href="story_content/5vaFHsrRQMy_44100_48_0.mp3" />
+      <file href="story_content/5tAYi8xSCs0_captions.js" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/txt__default_655yyj08COc.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5aDTUuF5Esu.js" />
+      <file href="html5/data/js/5rvjL2YZWmY.js" />
+      <file href="html5/data/js/5y3oDxC0Bz7.js" />
+      <file href="html5/data/js/6HOC9Olypmd.js" />
+      <file href="html5/data/js/6kE3sUBJy5M.js" />
+      <file href="html5/data/js/6MxqP5EytnX.js" />
+      <file href="html5/data/js/6p75cIW6tQh.js" />
+      <file href="html5/data/js/6WSul7JrZ8t.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
