@@ -3,8 +3,8 @@
 <head>
   <meta charset="utf-8">
   <!-- Created using Storyline 360 - http://www.articulate.com  -->
-  <!-- version: 3.85.31840.0 -->
-  <title>Sina-HR</title>
+  <!-- version: 3.86.32080.0 -->
+  <title>Sina-HRv2</title>
   <meta http-equiv="x-ua-compatible" content="IE=edge"/>
   <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no,shrink-to-fit=no,minimal-ui"/>
   <meta name="apple-mobile-web-app-capable" content="yes"/>
@@ -28,16 +28,16 @@
       captureRc: false,
       browserSize: 'optimal',
       bgColor: '#FFFFFF',
-      features: 'ConnectionMessages,DropInBase,DropInMisc,DropInVectors,DropInVideo,JsApi,LayerPresentAsDialog,MultipleQuizTracking,UpdatedThemeEditor',
+      features: 'ClosedCaptionsCustomization,DropInBase,DropInInteractions,DropInMisc,DropInVectors,DropInVideo,JsApi,LayerPresentAsDialog,MultipleQuizTracking,UpdatedThemeEditor',
       themeName: 'unified',
       preloaderColor: '#8C8C8C',
       suppressAnalytics: false,
       productChannel: 'stable',
       publishSource: 'storyline',
       aid: 'auth0|5c3ebf465839c91ac43ea7fc',
-      cid: '97e6d873-4f9d-448e-a85d-af62ed1f22dc',
-      playerVersion: '3.85.31840.0',
-      publishTimestamp: '2024-03-31T11:40:45.9400527Z',
+      cid: '67ab685f-a56a-4902-a41b-88223a309985',
+      playerVersion: '3.86.32080.0',
+      publishTimestamp: '2024-04-24T20:35:36.6885515Z',
       maxIosVideoElements: 10,
       connectionSettings: { message: 'You%20are%20offline.%20Trying%20to%20reconnect...', useDarkTheme: true, mode: 'disabled' },
       hasFeature: function(feature) {
@@ -141,7 +141,7 @@
   </script>
 
   <div class="mobile-load-title-overlay" style="display: none">
-    <div class="mobile-load-title">Sina-HR</div>
+    <div class="mobile-load-title">Sina-HRv2</div>
   </div>
 
   <div class="mobile-chrome-warning"></div>
@@ -252,11 +252,8 @@
 
     var connectionSettings = window.globals.connectionSettings || {};
 
-    // The `window.globals.features` variable must be set in `webpack.dev.config` when testing locally - it is not enough
-    // to have it in the data - but it must be set there as well.
     var useConnectionMessages = window.AbortController != null &&
       window.location.protocol != 'file:' &&
-      window.globals.features.indexOf('ConnectionMessages') != -1 &&
       connectionSettings.mode === 'normal';
 
     window.DS.connection.useConnectionMessages = useConnectionMessages;

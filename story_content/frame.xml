@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="Sina-HR" />
+              <option name="title_text" value="Sina-HRv2" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -68,11 +68,7 @@
           <option name="pauseplay" value="true" />
           <option name="replay" value="true" />
           <option name="search" value="false" />
-          <option name="closed_captions" value="true">
-            <options>
-              <option name="font" value="Lato" />
-            </options>
-          </option>
+          <option name="closed_captions" value="true" />
           <option name="settings" value="true" />
           <option name="fullScreenToggle" value="true" />
           <option name="playbackSpeedControl" value="true" />
@@ -88,6 +84,15 @@
           <option name="next" value="icontext" />
           <option name="previous" value="icontext" />
           <option name="submit" value="icontext" />
+        </options>
+      </optiongroup>
+      <optiongroup name="ccOptions">
+        <options>
+          <option name="font" value="Lato" />
+          <option name="size" value="100" />
+          <option name="placement" value="100" />
+          <option name="backgroundColor" value="#000000FF" />
+          <option name="color" value="#FFFFFFFF" />
         </options>
       </optiongroup>
     </optiongroups>
@@ -1578,10 +1583,21 @@
             <slidelink slideid="_player.6ewiQIa1cz5.5y3oDxC0Bz7" displaytext="INtro2" expand="false" type="slide" />
             <slidelink slideid="_player.6ewiQIa1cz5.6WSul7JrZ8t" displaytext="Welcome" expand="false" type="slide" />
             <slidelink slideid="_player.6ewiQIa1cz5.6p75cIW6tQh" displaytext="Instructions" expand="false" type="slide" />
-            <slidelink slideid="_player.6ewiQIa1cz5.6MxqP5EytnX" displaytext="Founder puzzle" expand="false" type="slide" />
-            <slidelink slideid="_player.6ewiQIa1cz5.5rvjL2YZWmY" displaytext="Founder info" expand="false" type="slide" />
-            <slidelink slideid="_player.6ewiQIa1cz5.5aDTUuF5Esu" displaytext="Founder Vision" expand="false" type="slide" />
-            <slidelink slideid="_player.6ewiQIa1cz5.6HOC9Olypmd" displaytext="Founder vision 2" expand="false" type="slide" />
+            <slidelink slideid="_player.6ewiQIa1cz5.5aDTUuF5Esu" displaytext="Chairman &amp;amp; Founder" expand="false" type="slide" />
+            <slidelink slideid="_player.6ewiQIa1cz5.6HOC9Olypmd" displaytext="Chairman &amp;amp; Founder" expand="false" type="slide" />
+            <slidelink slideid="_player.6ewiQIa1cz5.5rvjL2YZWmY" displaytext="Chairman &amp;amp; Founder" expand="false" type="slide" />
+            <slidelink slideid="_player.6ewiQIa1cz5.6ASdK7Fw5Wm" displaytext="SINA Board Of Trustees &amp;amp; Advisors" expand="false" type="slide" />
+            <slidelink slideid="_player.6ewiQIa1cz5.5XOfn1qk9r1" displaytext="Overview of Our Organisation" expand="false" type="slide" />
+            <slidelink slideid="_player.6ewiQIa1cz5.5huAH94m0fS" displaytext="Overview of Our Organisation" expand="false" type="slide" />
+            <slidelink slideid="_player.6ewiQIa1cz5.6Ze7Kc53ePk" displaytext="Overview of Our Organisation" expand="false" type="slide" />
+            <slidelink slideid="_player.6ewiQIa1cz5.6HOOp93t1Xw" displaytext="Overview of Our Organisation" expand="false" type="slide" />
+            <slidelink slideid="_player.6ewiQIa1cz5.6bsmdOYkGaT" displaytext="Need for Primary Healthcare" expand="false" type="slide" />
+            <slidelink slideid="_player.6ewiQIa1cz5.689ZTfGp4v6" displaytext="Sina&amp;apos;s Unique Value Proposition In The  Healthcare Market" expand="false" type="slide" />
+            <slidelink slideid="_player.6ewiQIa1cz5.6EoC5if8wx1" displaytext="Anc and  Immunization" expand="false" type="slide" />
+            <slidelink slideid="_player.6ewiQIa1cz5.65pGrlEsO1z" displaytext="Mental Health Program" expand="false" type="slide" />
+            <slidelink slideid="_player.6ewiQIa1cz5.6oA3IT0cYOT" displaytext="Mental Health Program" expand="false" type="slide" />
+            <slidelink slideid="_player.6ewiQIa1cz5.5fPlR1SIno2" displaytext="Sina Diagnostic  Laboratory" expand="false" type="slide" />
+            <slidelink slideid="_player.6ewiQIa1cz5.6qigx6NltMh" displaytext="Code Of Conduct" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
