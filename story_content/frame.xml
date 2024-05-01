@@ -48,7 +48,7 @@
       </optiongroup>
       <optiongroup name="menuoptions">
         <options>
-          <option name="flow" value="locked" />
+          <option name="flow" value="restricted" />
           <option name="wraplistitems" value="false" />
           <option name="tooltips" value="true" />
           <option name="autocollapse" value="true" />
@@ -1577,38 +1577,28 @@
   <nav_data>
     <outline>
       <links>
+        <slidelink slideid="_player.6ewiQIa1cz5.6p75cIW6tQh" displaytext="Instructions" expand="false" type="slide" />
         <slidelink slideid="_player.6ewiQIa1cz5" displaytext="Untitled Scene" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6ewiQIa1cz5.6kE3sUBJy5M" displaytext="Intro" expand="false" type="slide" />
-            <slidelink slideid="_player.6ewiQIa1cz5.5y3oDxC0Bz7" displaytext="INtro2" expand="false" type="slide" />
             <slidelink slideid="_player.6ewiQIa1cz5.6WSul7JrZ8t" displaytext="Welcome" expand="false" type="slide" />
-            <slidelink slideid="_player.6ewiQIa1cz5.6p75cIW6tQh" displaytext="Instructions" expand="false" type="slide" />
             <slidelink slideid="_player.6ewiQIa1cz5.5aDTUuF5Esu" displaytext="Chairman &amp;amp; Founder" expand="false" type="slide" />
-            <slidelink slideid="_player.6ewiQIa1cz5.6HOC9Olypmd" displaytext="Chairman &amp;amp; Founder" expand="false" type="slide" />
-            <slidelink slideid="_player.6ewiQIa1cz5.5rvjL2YZWmY" displaytext="Chairman &amp;amp; Founder" expand="false" type="slide" />
             <slidelink slideid="_player.6ewiQIa1cz5.6ASdK7Fw5Wm" displaytext="SINA Board Of Trustees &amp;amp; Advisors" expand="false" type="slide" />
             <slidelink slideid="_player.6ewiQIa1cz5.5XOfn1qk9r1" displaytext="Overview of Our Organisation" expand="false" type="slide" />
-            <slidelink slideid="_player.6ewiQIa1cz5.5huAH94m0fS" displaytext="Overview of Our Organisation" expand="false" type="slide" />
-            <slidelink slideid="_player.6ewiQIa1cz5.6Ze7Kc53ePk" displaytext="Overview of Our Organisation" expand="false" type="slide" />
             <slidelink slideid="_player.6ewiQIa1cz5.6HOOp93t1Xw" displaytext="Overview of Our Organisation" expand="false" type="slide" />
             <slidelink slideid="_player.6ewiQIa1cz5.6bsmdOYkGaT" displaytext="Need for Primary Healthcare" expand="false" type="slide" />
             <slidelink slideid="_player.6ewiQIa1cz5.689ZTfGp4v6" displaytext="Sina&amp;apos;s Unique Value Proposition In The  Healthcare Market" expand="false" type="slide" />
             <slidelink slideid="_player.6ewiQIa1cz5.6EoC5if8wx1" displaytext="Anc and  Immunization" expand="false" type="slide" />
             <slidelink slideid="_player.6ewiQIa1cz5.65pGrlEsO1z" displaytext="Mental Health Program" expand="false" type="slide" />
-            <slidelink slideid="_player.6ewiQIa1cz5.6oA3IT0cYOT" displaytext="Mental Health Program" expand="false" type="slide" />
             <slidelink slideid="_player.6ewiQIa1cz5.5fPlR1SIno2" displaytext="Sina Diagnostic  Laboratory" expand="false" type="slide" />
             <slidelink slideid="_player.6ewiQIa1cz5.6qigx6NltMh" displaytext="Code Of Conduct" expand="false" type="slide" />
             <slidelink slideid="_player.6ewiQIa1cz5.6IYbNgr4Qg6" displaytext="Leaves" expand="false" type="slide" />
-            <slidelink slideid="_player.6ewiQIa1cz5.6pomrmICCYX" displaytext="Leaves" expand="false" type="slide" />
-            <slidelink slideid="_player.6ewiQIa1cz5.5yoTlfp5qFz" displaytext="Leaves" expand="false" type="slide" />
             <slidelink slideid="_player.6ewiQIa1cz5.60nOEp7wrBX" displaytext="Compensatory Leaves" expand="false" type="slide" />
             <slidelink slideid="_player.6ewiQIa1cz5.5dI8mCOxZDM" displaytext="Code of Conduct" expand="false" type="slide" />
             <slidelink slideid="_player.6ewiQIa1cz5.67odgqlrLkX" displaytext="Zero Tolerance" expand="false" type="slide" />
             <slidelink slideid="_player.6ewiQIa1cz5.6j1lGP4fcQb" displaytext="Whistle Blowing Policy" expand="false" type="slide" />
-            <slidelink slideid="_player.6ewiQIa1cz5.6XJfROXFrWU" displaytext="Whistle Blowing Policy" expand="false" type="slide" />
             <slidelink slideid="_player.6ewiQIa1cz5.5pTWNpxjh9F" displaytext="Projects And  Collaborations" expand="false" type="slide" />
             <slidelink slideid="_player.6ewiQIa1cz5.5skCPB0p0aQ" displaytext="Sponsors" expand="false" type="slide" />
-            <slidelink slideid="_player.6ewiQIa1cz5.5rJ2oS5W220" displaytext="Sponsors" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
